@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Marguerite Church
-machurch@ucsd.edu
+Marguerite Church and Alyssa Tallada
